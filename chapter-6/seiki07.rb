@@ -1,0 +1,1 @@
+<option value="ps4">プレステ4</option><option value="gb">ゲームボーイ</option>

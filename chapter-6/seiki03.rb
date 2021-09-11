@@ -11,3 +11,4 @@ TEXT
 # 改行(\n)←されるまでの文章を一つの検索対象とし、grepによって検索対象を決める一文
 search = text.split(/\n/).grep(/クープ.?バ[ケゲ]ット/)
 puts search
+
